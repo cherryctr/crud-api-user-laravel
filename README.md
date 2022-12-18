@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1YMYkCdiduAUOkvEF4kjm_owQs6nTjPTOMUSZKwQKhBA/
 
 4. Hasil Program CRUD API & Program TEST: 
 https://github.com/cherryctr/crud-api-user-laravel/tree/main/lara <br>
-database : https://github.com/cherryctr/crud-api-user-laravel/blob/main/kasir_pro.sql
+database : https://github.com/cherryctr/crud-api-user-laravel/blob/main/api-test.sql
 
 5. Untuk Test membuat program dengan php link nya :
 https://github.com/cherryctr/crud-api-user-laravel/blob/main/index.php
