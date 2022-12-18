@@ -15,6 +15,5 @@ function star_replace($string){
     }, $string);
 
 }
-Melakukan Perancangan Database
 
 echo star_replace($string);
