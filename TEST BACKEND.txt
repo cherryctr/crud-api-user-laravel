@@ -1,0 +1,60 @@
+1. Buat hasil seperti di bawah ini menggunakan bahasa php.
+$start = 5;
+
+1**45678
+12**5678
+123**678
+1234**78
+12345**8
+
+2. Buat api crud users dengan field id, name, birth_date, birth_place,  gender(male, female)
+
+3. Buat seeder 500 seeder data users yang telah dibuat
+
+4. Buat response api data users di group berdasarkan birth_date, seperti dibawah ini (data menyesuaikan)
+[
+    {
+        "birth_place"     : "Bogor",
+        "jumlah_data_user" : 2,
+        "users": [
+            {
+                "id": 108,
+                "name": "Abdul",
+                "birth_date": "1999-01-04",
+                "gender": "male"
+            },
+            {
+                "id": 108,
+                "name": "Maul",
+                "birth_date": "1999-01-06",
+                "gender": "male"
+            }
+        ]
+    },
+    {
+        "birth_place": "Jakarta",
+        "jumlah_data_user" : 2,
+        "users": [
+            {
+                "id": 108,
+                "name": "Mega",
+                "birth_date": "1999-01-03",
+                "gender": "female"
+            },
+            {
+                "id": 108,
+                "name": "Rani",
+                "birth_date": "1999-01-09",
+                "gender": "female"
+            }
+        ]
+    },
+]
+
+
+
+Ketentuan pengumpulan :
+1.Upload source code ke github / gitlab (open)
+2.Kumpulkan dalam bentuk link github / gitlab ke nomor yang tertera di undangan selambat lambatnya 2x24 jam
+
+Selamat Mengerjakan!
